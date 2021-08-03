@@ -1,4 +1,6 @@
 ![Carlene's github stats](https://github-readme-stats.vercel.app/api?username=carlenePSF)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlenePSF)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there 👋
 
 I'm Carlene, and I'm currently working at Gavb as a tech analyst in the data science team.
