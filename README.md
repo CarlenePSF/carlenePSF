@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Carlene, and I'm currently working at Gavb as a tech analyst in the data science team.
+🌱 I’m learning lots of things about the data science world and programming. 
+This profile will be full of things I'm studying and working on. 
+
+
+
 <!--
 **CarlenePSF/carlenePSF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Carlene's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlenePSF)](https://github.com/anuraghazra/github-readme-stats)
