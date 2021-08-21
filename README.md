@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Carlene
 
-I'm currently working at Gavb as a tech analyst in the data science team.
 
-🌱 I’m learning lots of things about the data science world and programming. 
+🌱 I’m currently learning lots of things about the data science world and programming. 
 This profile will be full of things I'm studying and working on. 
 
  
