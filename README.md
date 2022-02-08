@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Carlene
 
 
-🌱 I’m currently learning lots of things about the data science and programming. 
+
 
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/csilvadefarias)
